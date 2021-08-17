@@ -6,7 +6,7 @@
   "unity": "2020.1",
   "dependencies": {
     "com.unity.ads": "3.7.5",
-    "com.drolegames.commonunitytools":
+    "com.drolegames.commonunitytools": "https://github.com/Jturesson90/CommonUnityTools.git"
   },
   "author": {
     "name": "Jesper Turesson",

@@ -1,0 +1,19 @@
+{
+    "name": "Drolegames.Social.IOS",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0b614e3f1f1adfd4b9b63999bcc0e2f2"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

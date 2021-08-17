@@ -1,0 +1,17 @@
+{
+    "name": "Drolegames.Social",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9c57e2db78c8def44a0c9b630c0f2721",
+        "GUID:6754eeb79c5471d48865c8ffc3a6be31"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,22 @@
+{
+  "name": "com.drolegames.commonunitytools.mobile",
+  "version": "0.0.1",
+  "displayName": "Drolegames Common Unity Tools Mobile",
+  "description": "Common mobile tools shared between different projects",
+  "unity": "2020.1",
+  "dependencies": {
+    "com.unity.ads": "3.7.5"
+  },
+  "author": {
+    "name": "Jesper Turesson",
+    "email": "jturesson90@gmail.com",
+    "url": "https://github.com/Jturesson90/CommonUnityTools"
+  },
+  "keywords": [
+    "common",
+    "tools",
+    "drolegames"
+  ],
+  "samples": [],
+  "type": "module"
+}

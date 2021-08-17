@@ -1,0 +1,16 @@
+{
+    "name": "Drolegames.Notifications",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9c57e2db78c8def44a0c9b630c0f2721"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
